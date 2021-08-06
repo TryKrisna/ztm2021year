@@ -1,0 +1,32 @@
+.img
+{
+    width: 100%;
+    height: 100%;
+}
+.sticky
+{
+    position: fixed;
+    top:0;
+    width: 100%;
+  
+    }
+    .navbar
+    {
+        z-index: 999;
+    }
+    .carousel-slide
+    {
+        z-index: 998;
+    }
+
+    #navbar > a   
+     {
+       background-color: aliceblue;
+       color: aliceblue;
+    }
+  
+    
+    .nav-item >a
+{
+    color: white;
+}
